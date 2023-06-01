@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Welcome to zzziCode's repository! 🎉🎉🎉
 
-- 🏗️ Studing at @[HEU](http://www.hrbeu.edu.cn/)
+- 🏫 Studing at @[HEU](http://www.hrbeu.edu.cn/)
 - 🏡 Living at HaErBin
 - 📙 [《C++ Primer》](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
 - 🧐 Try to find a good job
