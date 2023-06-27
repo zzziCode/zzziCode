@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ### Welcome to zzziCode's repository! 🎉🎉🎉
 
 - 🏫 Studing at @[HEU](http://www.hrbeu.edu.cn/)
-- 🏡 Living at HaErBin
-- 📙 [《C++ Primer》](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
+- 🏡 Living at @[HaErBin](https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B8%82)
 - 🧐 Try to find a good job
 - 🤔 論文を出版したい
