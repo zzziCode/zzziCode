@@ -1,5 +1,4 @@
 ### Hi there👋
-
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="180" height="180">
@@ -19,3 +18,9 @@
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-blue)  
 ![](https://img.shields.io/badge/%E5%9B%BE%E5%BA%8A-%E8%85%BE%E8%AE%AF%E4%BA%91-blue)  
 
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
