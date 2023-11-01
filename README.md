@@ -11,7 +11,7 @@
 
 - 🏫 Studing at @[HEU](http://www.hrbeu.edu.cn/)
 - 🏡 Living at @[HaErBin](https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B8%82)
-- 🌱 blog at@[zzzi的小站](https://zzzicode.github.io/)
+- 🌱 Blog at@[zzzi的小站](https://zzzicode.github.io/)
 - 🧐 Try to find a good job
 - 🤔 論文を出版したい
   
