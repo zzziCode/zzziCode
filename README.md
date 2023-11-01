@@ -6,7 +6,9 @@
 </div>
 
 ## Welcome to zzziCode's repository! 🎉🎉🎉
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zzziCode&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzziCode&layout=compact&theme=tokyonight" width="40%" height="50%" />
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzziCode&layout=compact&theme=tokyonight)-->
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=zzziCode&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />-->
 
 - 🏫 Studing at @[HEU](http://www.hrbeu.edu.cn/)
 - 🏡 Living at @[HaErBin](https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B8%82)
