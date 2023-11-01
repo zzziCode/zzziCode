@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi there👋
 
 <!--
 **zzziCode/zzziCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="180" height="180">
+</div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zzziCode&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Welcome to zzziCode's repository! 🎉🎉🎉
