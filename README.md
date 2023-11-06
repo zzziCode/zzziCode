@@ -9,9 +9,9 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzziCode&layout=compact&theme=tokyonight)-->
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=zzziCode&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />-->
 
-- 🏫 Studing at @[HEU](http://www.hrbeu.edu.cn/){:target="_blank"}
-- 🏡 Living at @[HaErBin](https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B8%82){:target="_blank"}
-- 🌱 Blog at@[zzzi的小站](https://zzzicode.github.io/){:target="_blank"}
+- 🏫 Studing at @[HEU](http://www.hrbeu.edu.cn/) {:target="_blank"}
+- 🏡 Living at @[HaErBin](https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B8%82) {:target="_blank"}
+- 🌱 Blog at@[zzzi的小站](https://zzzicode.github.io/) {:target="_blank"}
 - 🧐 Try to find a good job
 - 🤔 論文を出版したい
   
