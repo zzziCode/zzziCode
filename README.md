@@ -16,7 +16,7 @@
 - 🤔 論文を出版したい
   
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-blue)  
-![](https://img.shields.io/badge/%E5%9B%BE%E5%BA%8A-%E8%85%BE%E8%AE%AF%E4%BA%91-blue)  
+![](https://img.shields.io/badge/%E5%9B%BE%E5%BA%8A-%E8%85%BE%E8%AE%AF%E4%BA%91-blue)  ![](https://img.shields.io/badge/Git-red)
 
 ```javascript
 // Which came first: the chicken or the egg?
