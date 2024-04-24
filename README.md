@@ -1,9 +1,5 @@
 ### Hi there👋
 ![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg)
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="180" height="180">
-</div>
 
 ## Welcome to zzziCode's repository! 🎉🎉🎉
 <img align="right" alt="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzziCode&layout=compact&theme=dracula" width="40%" height=50%/>
