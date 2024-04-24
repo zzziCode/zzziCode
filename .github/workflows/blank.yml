@@ -15,7 +15,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: zzziCode
           SETTING_JSON: ./3d-profile-settings.json
       - name: Read GitHub cookies from 1Password
         id: op-load-secret
