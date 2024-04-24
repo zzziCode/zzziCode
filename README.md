@@ -1,7 +1,5 @@
 ### Hi there👋
-<p align="center">
-  <img height="500" src="https://github.com/zzziCode/zzziCode/assets/10510431/28cd65d3-b650-46fa-90b1-7f2d03a40c5e" />
-</p>
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="180" height="180">
