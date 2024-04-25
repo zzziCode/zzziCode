@@ -7,7 +7,7 @@
 <!--![](https://raw.githubusercontent.com/zzziCode/zzziCode/output/github-contribution-grid-snake.svg)-->
 
 ## Welcome to zzziCode's repository! 🎉🎉🎉
-<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=zzziCode&show_icons=true&theme=transparent" width="45%" height=55%/>
+<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=zzziCode&show_icons=true&theme=transparent" width="52%" height=62%/>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzziCode&layout=compact&theme=tokyonight)-->
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=zzziCode&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />-->
 
