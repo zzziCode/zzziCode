@@ -1,10 +1,13 @@
 ### Hi there👋
-<img src="./profile-3d-contrib/profile-season-animate.svg"/>
+<p align="center">
+  <img height="500" src="./profile-3d-contrib/profile-season-animate.svg" />
+</p>
+<!-- <img src="./profile-3d-contrib/profile-season-animate.svg"/> -->
 <!-- ![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg) -->
 <!--![](https://raw.githubusercontent.com/zzziCode/zzziCode/output/github-contribution-grid-snake.svg)-->
 
 ## Welcome to zzziCode's repository! 🎉🎉🎉
-<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=zzziCode&show_icons=true" width="50%" height=60%/>
+<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=zzziCode&show_icons=true&theme=transparent" width="45%" height=55%/>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzziCode&layout=compact&theme=tokyonight)-->
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=zzziCode&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />-->
 
@@ -17,9 +20,9 @@
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-blue)  
 ![](https://img.shields.io/badge/%E5%9B%BE%E5%BA%8A-%E8%85%BE%E8%AE%AF%E4%BA%91-blue)  ![](https://img.shields.io/badge/Git-red)
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+<!--```javascript-->
+<!--// Which came first: the chicken or the egg?-->
+<!--console.log(['🥚', '🐣', '🐥', '🐔'].sort())-->
 
->>> [ '🐔', '🥚', '🐣', '🐥' ]
-```
+<!-- [ '🐔', '🥚', '🐣', '🐥' ]-->
+<!--```-->
