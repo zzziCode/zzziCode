@@ -1,6 +1,6 @@
 ### Hi there👋
 <p align="center">
-  <img height="500" src="./profile-3d-contrib/profile-season-animate.svg" />
+  <img height="500" src="./profile-season-animate.svg" />
 </p>
 <!-- <img src="./profile-season-animate.svg"/> -->
 <!-- ![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg) -->
