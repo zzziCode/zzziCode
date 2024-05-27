@@ -2,7 +2,7 @@
 <p align="center">
   <img height="500" src="./profile-3d-contrib/profile-season-animate.svg" />
 </p>
-<!-- <img src="./profile-3d-contrib/profile-season-animate.svg"/> -->
+<!-- <img src="./profile-season-animate.svg"/> -->
 <!-- ![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg) -->
 <!--![](https://raw.githubusercontent.com/zzziCode/zzziCode/output/github-contribution-grid-snake.svg)-->
 
